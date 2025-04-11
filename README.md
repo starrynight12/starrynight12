@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Games</b>
-  - [Text-based Adventure Game](https://github.com/users/starrynight12/projects/1)
+  - [Text-based Adventure Game](https://github.com/starrynight12/Text_adventure_game)
 - <b>Full Stack Web App (React, Flask, NodeJS, database Components)</b>
   - [Recipe manager- Database backend](to be added) 
   - [profile](to be added)
