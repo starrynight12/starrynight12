@@ -11,7 +11,7 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
-  -  (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)-->
+  -  (Encrypter)]()-->
 
 <h2>📺 YouTube Videos</h2>
 
