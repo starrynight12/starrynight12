@@ -13,10 +13,10 @@ Right now I'm:
 
 ## 🛠️ Tech I work with
 
-- **Languages:** Python · JavaScript · SQL · C · C++ · C# · Java · Kotlin · R
+- **Languages:** Python · JavaScript · Kotlin · SQL · C · C++ · C# · Java · R
 - **Web & APIs:** React · Node.js · Flask · REST · Auth0 / JWT · HTML/CSS
 - **Data:** pandas · NumPy · MySQL · SQL Server · MongoDB · Google Cloud Datastore · Power BI
-- **Graphics & games:** OpenGL / GLSL shaders · Unity
+- **Mobile, graphics & games:** Android (Kotlin) · OpenGL / GLSL shaders · Unity
 - **Tools:** Git · Docker · Google Cloud (App Engine, Cloud Storage) · Figma · Wireshark
 
 ---
@@ -30,6 +30,7 @@ Right now I'm:
 | **OpenGL Graphics & Shaders** | Real-time GPU graphics: a stormy ocean built from Gerstner waves with analytic normals and 3D-noise bump mapping, plus a salmon that swims using a sine-wave vertex shader. | C++, OpenGL, GLSL, glman |
 | **Remote Debugging Container** | A .NET app in a Docker container with an SSH server, set up for remote debugging from VS Code. | C#, .NET, Docker, SSH |
 | **TOTP / QR Two-Factor Generator** | Generates time-based one-time passwords and QR codes that work with Google Authenticator. | Python, pyotp, qrcode |
+| **Treasure Hunt (Android)** | A location-based treasure hunt game: players follow clues to real-world spots, and the app checks their position with location APIs and geospatial distance calculations. | Kotlin, Android Studio, Android Location APIs |
 | **[Recipe Manager](https://github.com/victoriacliu/browse_recipes)** | A team-built database web app for browsing recipes, categories, cook times, and equipment, with full create, read, update and delete support. | Node.js, Express, MySQL, HTML/CSS |
 | **[Text Adventure Game](https://github.com/starrynight12/Text_adventure_game)** | A command-driven adventure game with a verb-noun parser and a JSON-driven story world. [Video demo](https://youtu.be/ey9_i1XemcE) | Python |
 
