@@ -1,33 +1,50 @@
-<h1>Hi, I'm Zoha! <br/><a href="https://github.com/starrynight12">Programmer</a>, <a href="https://www.linkedin.com/in/zoha-akbarzadeh-4913b22a4">Industry employee</a> </h1>
+# Hi, I'm Zoha 👋
 
-<h2>👨‍💻 Software Development Projects:</h2>
+Software engineer and data analyst in San Jose, CA. I build full-stack web apps, REST APIs, data pipelines, and interactive graphics, with a B.S. in Computer Science from Oregon State University (2025).
 
-- <b>Games</b>
-  - [Text-based Adventure Game](https://github.com/starrynight12/Text_adventure_game)
-- <b>Full Stack Web App (React, Flask, NodeJS, database Components)</b>
-  - [Recipe manager- Database backend](to be added) 
-  - [profile](to be added)
-<!--  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  -  (Encrypter)]()-->
+Right now I'm:
 
-<h2>📺 YouTube Videos</h2>
+- **Web Developer at a physician-led clinic.** I migrate the clinic's content to search-indexable, server-rendered pages and automate publishing with Python and REST APIs.
+- **Research Assistant at Oregon State University.** I build Python data pipelines that turn tens of gigabytes of environmental sensor data into analysis-ready datasets for public health research.
 
-<!--- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)-->
+📫 zoha.akbarzadeh@gmail.com · [LinkedIn](https://www.linkedin.com/in/zoha-akbarzadeh-4913b22a4/)
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-<!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
+## 🛠️ Tech I work with
 
-[<img align="left" alt="ZohaAkbarzadeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!--[<img align="left" alt="ZohaAkbarzadeh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
+- **Languages:** Python · JavaScript · SQL · C · C++ · C# · Java · Kotlin · R
+- **Web & APIs:** React · Node.js · Flask · REST · Auth0 / JWT · HTML/CSS
+- **Data:** pandas · NumPy · MySQL · SQL Server · MongoDB · Google Cloud Datastore · Power BI
+- **Graphics & games:** OpenGL / GLSL shaders · Unity
+- **Tools:** Git · Docker · Google Cloud (App Engine, Cloud Storage) · Figma · Wireshark
 
-[linkedin]: https://www.linkedin.com/in/zoha-akbarzadeh-4913b22a4 
+---
 
-- 🔭 I’m currently working on a text-based adventure game.
-- 🌱 I’m currently learning Unity!
-- 👯 I’m looking to collaborate on game making.
-- 💬 Ask me about languages!
-- How to reach me: [email!]: zoha.akbarzadeh@gmail.com
+## ⭐ Featured projects
+
+| Project | What it is | Tech |
+|---|---|---|
+| **Course Management REST API** | A cloud-hosted REST API with user login, role-based access (admin / instructor / student), course enrollment, and avatar image upload and download. | Python, Flask, Google Cloud Datastore & Storage, Auth0 JWT, App Engine |
+| **[LIVE: Language Immersion Virtual Environment](https://github.com/starrynight12/LIVE)** | A team-built Unity game that teaches languages through real-world scenarios. I built the localization content: UI text and task scripts in 14 languages, including Mandarin, Arabic, Hindi, Japanese, and Urdu. | Unity, C#, JSON |
+| **OpenGL Graphics & Shaders** | A set of real-time graphics projects: a salmon animated with vertex shaders, procedural noise shaders, and textured planets. | C++, OpenGL, GLSL, glman |
+| **Remote Debugging Container** | A .NET app in a Docker container with an SSH server, set up for remote debugging from VS Code. | C#, .NET, Docker, SSH |
+| **TOTP / QR Two-Factor Generator** | Generates time-based one-time passwords and QR codes that work with Google Authenticator. | Python, pyotp, qrcode |
+| **[Text Adventure Game](https://github.com/starrynight12/Text_adventure_game)** | A command-driven adventure game with a verb-noun parser and a JSON-driven story world. [Video demo](https://youtu.be/ey9_i1XemcE) | Python |
+
+---
+
+## 🔬 Professional work highlights
+*(The code is private, so these are descriptions only.)*
+
+- **Content publishing pipeline.** Converts 30 physician-reviewed articles (~25k words) from Markdown to publish-ready HTML, with a JSON metadata manifest, automated cross-reference checks, and a REST API script that bulk-schedules posts (with a dry-run mode).
+- **Sensor data reduction for research.** Compresses ~25 GB of 8 Hz sound-level recordings from 153 monitors into hourly, minute, and event-level summaries. It cuts data volume by over 99% while keeping percentile metrics exact.
+- **Database tooling.** Python and C# tools that automate SQL Server data cleaning; they improved site performance by 20%.
+
+---
+
+## 🌱 Currently
+
+- Learning more about parallel programming (OpenMP) and GPU shaders
+- Building with AI-assisted workflows and AI search (GEO)
+- Open to software engineering, data analyst, and technical support roles (remote)
