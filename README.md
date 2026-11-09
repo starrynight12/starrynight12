@@ -18,6 +18,7 @@ Right now I'm:
 - **Data:** pandas · NumPy · MySQL · SQL Server · MongoDB · Google Cloud Datastore · Power BI
 - **Mobile, graphics & games:** Android (Kotlin) · OpenGL / GLSL shaders · Unity
 - **Tools:** Git · Docker · Google Cloud (App Engine, Cloud Storage) · Figma · Wireshark
+- **Testing & CI:** unittest · pytest · flake8 · GitHub Actions (CI/CD)
 
 ---
 
@@ -32,6 +33,8 @@ Right now I'm:
 | **TOTP / QR Two-Factor Generator** | Generates time-based one-time passwords and QR codes that work with Google Authenticator. | Python, pyotp, qrcode |
 | **Treasure Hunt (Android)** | A location-based treasure hunt game: players follow clues to real-world spots, and the app checks their position with location APIs and geospatial distance calculations. | Kotlin, Android Studio, Android Location APIs |
 | **[Recipe Manager](https://github.com/victoriacliu/browse_recipes)** | A team-built database web app for browsing recipes, categories, cook times, and equipment, with full create, read, update and delete support. | Node.js, Express, MySQL, HTML/CSS |
+| **Number & Date Conversion Library** | A team-built Python library for converting strings to numbers (integer, decimal, hex), seconds to dates, and integers to big- or little-endian hex. I wrote the date-conversion function and its unit tests. Every push and pull request runs flake8 linting and the unit test suite through a GitHub Actions CI pipeline. | Python, unittest, flake8, GitHub Actions |
+| **BigShell: Unix Shell** | A custom Unix shell with I/O redirection, process control, and built-in commands. | C, POSIX |
 | **[Text Adventure Game](https://github.com/starrynight12/Text_adventure_game)** | A command-driven adventure game with a verb-noun parser and a JSON-driven story world. [Video demo](https://youtu.be/ey9_i1XemcE) | Python |
 
 ---
