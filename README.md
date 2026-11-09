@@ -29,18 +29,19 @@ Right now I'm:
 | **Course Management REST API** | A cloud-hosted REST API with user login, role-based access (admin / instructor / student), course enrollment, and avatar image upload and download. | Python, Flask, Google Cloud Datastore & Storage, Auth0 JWT, App Engine |
 | **[LIVE: Language Immersion Virtual Environment](https://github.com/starrynight12/LIVE)** | A team-built Unity game that teaches languages through real-world scenarios. I built the localization content: UI text and task scripts in 14 languages, including Mandarin, Arabic, Hindi, Japanese, and Urdu. | Unity, C#, JSON |
 | **OpenGL Graphics & Shaders** | Real-time GPU graphics: a stormy ocean built from Gerstner waves with analytic normals and 3D-noise bump mapping, plus a salmon that swims using a sine-wave vertex shader. | C++, OpenGL, GLSL, glman |
-| **Remote Debugging Container** | A .NET app in a Docker container with an SSH server, set up for remote debugging from VS Code. | C#, .NET, Docker, SSH |
 | **TOTP / QR Two-Factor Generator** | Generates time-based one-time passwords and QR codes that work with Google Authenticator. | Python, pyotp, qrcode |
 | **Treasure Hunt (Android)** | A location-based treasure hunt game: players follow clues to real-world spots, and the app checks their position with location APIs and geospatial distance calculations. | Kotlin, Android Studio, Android Location APIs |
 | **[Recipe Manager](https://github.com/victoriacliu/browse_recipes)** | A team-built database web app for browsing recipes, categories, cook times, and equipment, with full create, read, update and delete support. | Node.js, Express, MySQL, HTML/CSS |
-| **Number & Date Conversion Library** | A team-built Python library for converting strings to numbers (integer, decimal, hex), seconds to dates, and integers to big- or little-endian hex. I wrote the date-conversion function and its unit tests. Every push and pull request runs flake8 linting and the unit test suite through a GitHub Actions CI pipeline. | Python, unittest, flake8, GitHub Actions |
-| **BigShell: Unix Shell** | A custom Unix shell with I/O redirection, process control, and built-in commands. | C, POSIX |
+| **[Number & Date Conversion Library](https://github.com/psargeant/CS362Group98Project)** | A team-built Python library for converting strings to numbers (integer, decimal, hex), seconds to dates, and integers to big- or little-endian hex. I wrote the date-conversion function and its unit tests. Every push and pull request runs flake8 linting and the unit test suite through a GitHub Actions CI pipeline. | Python, unittest, flake8, GitHub Actions |
+| **[BigShell: Unix Shell](https://github.com/osu-cs374/bigshell-starrynight12)** | A custom Unix shell with I/O redirection, process control, and built-in commands. | C, POSIX |
+| **[Python CI Workflow](https://github.com/starrynight12/sampleWorkflow)** | A GitHub Actions pipeline that lints Python with flake8 and runs the unit test suite automatically on every push and pull request. | Python, unittest, flake8, GitHub Actions |
 | **[Text Adventure Game](https://github.com/starrynight12/Text_adventure_game)** | A command-driven adventure game with a verb-noun parser and a JSON-driven story world. [Video demo](https://youtu.be/ey9_i1XemcE) | Python |
 
 ---
 
 ## 🔬 Professional work highlights
-*(The code is private, so these are descriptions only.)*
+*(These repos are private, so links may not open for visitors.)*
 
 - **Content publishing pipeline.** Converts 30 physician-reviewed articles (~25k words) from Markdown to publish-ready HTML, with a JSON metadata manifest, automated cross-reference checks, and a REST API script that bulk-schedules posts (with a dry-run mode).
 - **Sensor data reduction for research.** Compresses ~25 GB of 8 Hz sound-level recordings from 153 monitors into hourly, minute, and event-level summaries. It cuts data volume by over 99% while keeping percentile metrics exact.
+- **[Remote debugging container](https://github.com/starrynight12/remoteDebugging).** Packaged a .NET app in a Docker container with an SSH server set up for remote debugging from VS Code (Remote-SSH).
